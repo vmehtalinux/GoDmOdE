@@ -1,2 +1,2 @@
-# GoDmOdE
-Super Cool insane natural powers over the computing world 
+# WebEditor
+Ability to edit the web.
